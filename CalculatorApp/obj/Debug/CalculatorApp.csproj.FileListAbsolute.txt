@@ -1,0 +1,10 @@
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Can\Documents\Rider Project\GUIform\Calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
